@@ -1,6 +1,6 @@
 # Covid-19-Data-Analysis
 
-This project deals with the followong:
+This project deals with the following:
 
 1.  Analysed total cases, deaths, recovered and active cases.
 2.  Performed EDA on the data.
